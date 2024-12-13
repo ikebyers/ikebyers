@@ -10,7 +10,6 @@
 
 <!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
 [![Ike's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikebyers&show_icons=true&theme=gruvbox&show_icons=true)]<br/>
-(https://github.com/anuraghazra/github-readme-stats)
 
 <!-- GPRM readme profile generator -->
 
