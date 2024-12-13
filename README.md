@@ -1,6 +1,6 @@
 <!-- Bio -->
 
-### Hey, I'm Ike! 👋
+### Hey, I'm Ike! [https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif]
 
 - 💻 Full-Stack Web Developer, Music Producer, and Audio Recording Engineer/Artist<br/>
 - 🎓 Studied [Coding and Software Development](https://bootcamp.charlotte.edu/coding/curriculum/) at the University of North Carolina at Charlotte<br/>
