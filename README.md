@@ -8,6 +8,18 @@
 - 💬 Currently learning about [Socket.io](https://socket.io/)
 - 📫 If you have any questions or just want to connect, shoot me an email at ikebyersmgmt@gmail.com or dm me on [instagram](https://www.instagram.com/yesbeki/)!
 
+```js
+──────────────────────────────────────────────
+
+os       • Sonoma 14.6.1
+shell    • zsh 5.9
+
+learning • Socket.io, webpack, jQuery, Redux
+
+hobbies  • music, making beats, instruments & gear, movies & shows
+
+```
+
 <!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
 ![Ike's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikebyers&show_icons=true&count_private=true&show&theme=gruvbox&show_icons=true)<br/>
 
