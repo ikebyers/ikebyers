@@ -2,10 +2,10 @@
 
 ### Hey, I'm Ike!&nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-- Full-Stack Web Developer, Music Producer, and Audio Recording Engineer/Artist<br/>
-- Studied [Coding and Software Development](https://bootcamp.charlotte.edu/coding/curriculum/) at the University of North Carolina at Charlotte<br/>
-- Writing, recording, and producing music as 'Beki' on all streaming platforms--here's the link to my [Spotify](https://open.spotify.com/artist/6lA0hlZQNMpHpsQ9ki8KEF?si=HVGwAUwuQK-87W9WSw5YOA)!<br/>
-- If you have any questions or just want to connect, shoot me an email at ikebyersmgmt@gmail.com or dm me on [instagram](https://www.instagram.com/yesbeki/)!
+- 💻 Full-Stack Web Developer, Music Producer, and Audio Recording Engineer/Artist<br/>
+- 🎓 Studied [Coding and Software Development](https://bootcamp.charlotte.edu/coding/curriculum/) at the University of North Carolina at Charlotte<br/>
+- 🎵 Writing, recording, and producing music as 'Beki' on all streaming platforms--here's the link to my [Spotify](https://open.spotify.com/artist/6lA0hlZQNMpHpsQ9ki8KEF?si=HVGwAUwuQK-87W9WSw5YOA)!<br/>
+- 📧 If you have any questions or just want to connect, shoot me an email at ikebyersmgmt@gmail.com!
 
 ```js
 ──────────────────────────────────────────────
