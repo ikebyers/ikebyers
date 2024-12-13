@@ -9,5 +9,5 @@
 - 📫 If you have any questions or just want to connect, shoot me an email at ikebyersmgmt@gmail.com or dm me on instagram! @yesbeki
 
 <!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
-[![Ike's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikebyers&show_icons=true&theme=gruvbox&show_icons=true)]
+[![Ike's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikebyers&show_icons=true&theme=gruvbox&show_icons=true)]<br/>
 (https://github.com/anuraghazra/github-readme-stats)
