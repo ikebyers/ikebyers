@@ -13,7 +13,7 @@
 os        •  Sonoma 14.6.1
 shell     •  zsh 5.9
 
-learning  •  Socket.io, webpack, jQuery, Redux
+learning  •  Socket.io, webpack, Angular, Redux
 
 hobbies   •  music, making beats, instruments & gear, movies & shows
 
